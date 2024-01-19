@@ -1,5 +1,5 @@
-// check with a code snipet 
-// add the marker 
+// check with a code snippet 
+// add the marker in your 
 
 function takeShower () {
 	console.log('shower.....');
@@ -21,4 +21,4 @@ function WakeUp () {
 	console.log('I am ready to study');
 }
 
-WakeUp();
+WakeUp(); // snipped goes here
