@@ -8,4 +8,6 @@ Examples and notes about algorithms
 
 ## ROADMAP
 
-- [] BigO examples
+- [x] BigO examples
+- [x] Objects examples
+- [] CallStack examples
