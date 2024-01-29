@@ -13,3 +13,5 @@ Examples and notes about algorithms
 - [x] CallStack examples
 - [x] Recursion 
 - [] Stacks
+- [] Queues 
+- [] AsyncJs 
