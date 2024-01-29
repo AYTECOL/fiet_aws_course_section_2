@@ -10,4 +10,6 @@ Examples and notes about algorithms
 
 - [x] BigO examples
 - [x] Objects examples
-- [] CallStack examples
+- [x] CallStack examples
+- [x] Recursion 
+- [] Stacks
