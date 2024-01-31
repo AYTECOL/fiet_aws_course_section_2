@@ -14,7 +14,7 @@ function factorial(number) {
 // factorial of 1 is 1;
 function factorialRecursively(number){
 	if (number === 1) return 1;
-	return number * factorial(number - 1);
+	return number * factorialRecursively(number - 1);
 }
 
 
@@ -23,5 +23,5 @@ function factorialRecursively(number){
 // maximum  call stack size exceeded - this is a stack overflow 
 function factorialRecursively(number){
 	// if (number === 1) return 1;
-	return number * factorial(number - 1);
+	return number * factorialRecursively(number - 1);
 }
