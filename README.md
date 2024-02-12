@@ -1,6 +1,6 @@
 # CHAPTER 2 - COMPUTER SCIENCE FOUNDATIONS
 
-Examples and notes about algorithms
+Examples and notes about algorithms 
 
 ## Written with
 
@@ -12,6 +12,7 @@ Examples and notes about algorithms
 - [x] Objects examples
 - [x] CallStack examples
 - [x] Recursion 
-- [] Stacks
-- [] Queues 
-- [] AsyncJs 
+- [x] Stacks
+- [x] Queues 
+- [x] AsyncJs 
+- [] problem Solving
